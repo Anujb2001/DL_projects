@@ -1,0 +1,709 @@
+Cornell University School of Hotel Administration
+The Scholarly Commons
+Articles and Chapters School of Hotel Administration Collection
+5-1991
+Assessing Customer Contact: Work Sampling in Restaurants
+Sheryl E. Kimes
+Cornell University, sek6@cornell.edu
+Stephen A. Mutkoski
+Cornell University, sam29@cornell.edu
+Follow this and additional works at: https://scholarship.sha.cornell.edu/articles
+Part of the Food and Beverage Management Commons
+Recommended Citation
+Kimes, S. E., & Mutkoski, S. A. (1991). Assessing customer contact: Work sampling in restaurants
+[Electronic version]. Cornell Hotel and Restaurant Administration Quarterly, 32(1), 82-88. Retrieved [insert
+date], from Cornell University, School of Hospitality Administration site:
+http://scholarship.sha.cornell.edu/articles/457/
+This Article or Chapter is brought to you for free and open access by the School of Hotel Administration Collection
+at The Scholarly Commons. It has been accepted for inclusion in Articles and Chapters by an authorized
+administrator of The Scholarly Commons. For more information, please contact hotellibrary@cornell.edu.
+If you have a disability and are having trouble accessing information on this website or need materials in an
+alternate format, contact web-accessibility@cornell.edu for assistance.
+View metadata, citation and similar papers at core.ac.uk brought to you by CORE
+provided by School of Hotel Administration, Cornell University
+Assessing Customer Contact: Work Sampling in Restaurants
+Abstract
+Customer contact is a crucial element in food service. But how much actual contact do restaurant guests
+experience, and how much time do food servers' other tasks require? Here’s a method to use in answering
+those questions.
+Keywords
+customer contact, restaurant industry, efficiency
+Disciplines
+Food and Beverage Management
+Comments
+Required Publisher Statement
+© Cornell University. Reprinted with permission. All rights reserved.
+This article or chapter is available at The Scholarly Commons: https://scholarship.sha.cornell.edu/articles/457
+82 THE CORNELL H.R.A. QUARTERLY
+/?
+Assessing
+Customer Contad:
+Work Sampling in Restaurants
+Customer contact is a crucial element in food service. But how much actual contact do
+restaurant guests experience, and how much time do food servers' other tasks require?
+Here’s a method to use in answering those questions
+by Sheryl E. Kimes
+and Stephen A. Mutkoski
+SERVERS FULFILL two main
+roles in restaurants. One role is to
+act as the representative of the
+restaurant in making the customer
+feel comfortable and satisfied. We
+call this the contact role, and it has
+also been called the conviviality
+dimension of customer service.1
+The other role is providing efficient
+delivery of food and beverage
+items, or the procedural dimension
+of service. Depending on the type of
+restaurant you operate, the
+relative emphasis you place on
+these dimensions will vary.
+Restaurants placing heavy
+emphasis on customer service may
+William B. Martin, Quality Service: The
+Restaurant Manager’s Bible, Second Edition
+(Ithaca: NY, Cornell University School of Hotel
+Administration, 1991).
+ask their servers to maintain
+attentive guest contact, while they
+rely on back-of-the-house workers
+for help in food and beverage
+production. Other restaurants will
+place the emphasis on speedy,
+efficient service and pay little
+attention to the customer.
+Because servers have only so
+much time, a trade-off must be
+made between time spent on guest
+contact and service efficiency. If
+heavy emphasis is placed on guest
+contact, efficiency may suffer, but
+the restaurant may see an increase
+in average check, tips, and repeat
+business. On the other hand, if the
+emphasis is placed on efficiency,
+the restaurant will be able to turn
+tables, but guest satisfaction and
+add-on sales may decrease.
+One helpful way of considering
+this trade-off is by using the matrix
+shown in Exhibit 1, which ranks
+various restaurant concepts
+according to the relative balance
+between efficiency, guest contact,
+and sales opportunities. An
+important point about this matrix
+is that any point can be the right
+one for a restaurant, depending on
+the market. Restaurants define
+their niche within that market by
+developing a unique mix of guest
+contact and efficient service.
+Testing the Trade-Off
+Despite the trade-off between efficiency
+and service, we believe that
+restaurateurs may find an oppor-
+Sheryl E. Kimes, Ph.D., is an
+assistant professor at the Cornell
+University School of Hotel Administration,
+where Stephen A.
+Mutkoski, Ph.D., is the Banfi
+Vintners Professor of Wine Education
+and Management.
+MAY 1991 83
+tunity to maintain efficiency and
+create an illusion of greater guest
+contact—if the relative amount of
+guest contact can be determined. In
+this article, we present a discussion
+of work sampling —a method for
+discovering exactly how your
+servers are spending their time. To
+show how work sampling functions,
+we will discuss the results of
+a study in which we measured the
+relative amount of customer contact
+in family restaurants and midscale
+restaurants.
+Although these two restaurant
+types are adjacent on the continuum
+in Exhibit 1, we thought
+that mid-scale restaurants would
+have a greater amount of guest
+contact than family-style restaurants
+and would be able to charge
+correspondingly higher prices. We
+hypothesized that family restaurants
+would place greater emphasis
+on efficiency and increased
+table turnover, while mid-scale
+restaurants would aim for more
+guest contact and add-on sales.
+Work sampling. To test our
+hypotheses, we used work sampling,
+a method developed in
+manufacturing to assess the
+proportion of time a worker spends
+on different activities. Work
+sampling has been used in a
+variety of situations. It is used in
+industrial sales to find out what
+percentage of the time sales
+representatives actually spend
+selling.2 Bankers used work
+sampling to determine the amount
+of time bank tellers spent on tasks
+requiring high skills versus those
+requiring little skill.3
+To use work sampling, you first
+make a complete list of work
+activities for your servers and then
+devise a plan for observing the
+worker. The trick in work sampling
+2B.L. Foote, “A Queuing Case Study of Drive-
+In Banking,” Interfaces, 63, No. 4, pp. 30-36.
+3Noble Hall and Jack Staehle, “The
+Industrial Engineer’s Role in Reducing Cost of
+Distribution,” Proceedings of the 16th Annual
+National Time and Motion Study Clinic, 1953,
+pp. 88-92.
+EXHIBIT 1
+Continuum of restaurant concepts: efficiency, contact, and sales
+Production efficiency
+High Low
+Low High
+Customer contact
+is that you observe the worker at
+selected times, but not constantly.
+Since managers rarely have the
+time (or the inclination) to watch
+their workers constantly, work
+sampling can be a handy technique.
+If the sampling plan provides
+an appropriately representative
+sample, you should be able to
+get a good idea of the amount of
+time your servers spend on different
+activities.
+The intent of work sampling is
+to give managers an idea of how
+workers spend their time, but it
+should not be used as ammunition
+for disciplinary action. If you think
+your employees are not spending
+their time correctly, make the
+changes in the work situation.
+Ninety-Minute Minimum
+We studied a total of 24 restaurants,
+half of them family operations
+and half mid-scale. We
+observed the restaurants at lunch
+and dinner. Our observers studied
+two servers at each restaurant for
+a minimum of 90 minutes. All
+restaurants were located in Ithaca,
+Rochester, or Syracuse, New York.
+To develop our list of functions,
+we divided the server’s job into
+eight distinct categories. We kept
+the number to eight because work
+sampling is most effective when
+the categories are relatively few in
+number, do not overlap, and
+provide enough detail to have
+84
+informational value. We observed
+only the activities on the floor and
+did not seek to measure what the
+servers were doing when they were
+out of sight. Our eight categories
+were as follows:
+(1) Guest contact: The server was
+interacting with the customer.
+This category included such activities
+as taking orders, delivering
+food and drink, and talking.
+(2) Walk—Empty: The server was
+walking without carrying any
+food or beverage items. The
+server was on the way to place
+an order, to take an order, or to
+clear a table.
+(3) Walk—Full: The server was
+walking and carrying food and
+beverage items. That meant he
+or she was taking food to a table
+or clearing items from a table.
+(4) Bus: The server was clearing a
+table after guests had departed.
+(5) Prepare: The server was
+preparing or finishing a food or
+beverage item for delivery.
+(6) Can't see: The server was off the
+floor.
+(7) Check: The server was delivering
+or processing a customer’s
+check.
+(8) Rest: The server was taking a
+break.
+Student observers went anonymously
+to each restaurant and
+used a form like the one partially
+shown in Exhibit 2 to record their
+observations of the two servers. We
+THE CORNELL H.R.A. QUARTERLY
+avoided announcing the time or
+purpose of our visits to minimize
+the Hawthorne effect, in which
+people alter their usual behavior
+because they know they are being
+watched. The observers noted what
+the servers were doing each minute
+(but not between minutes). Server
+# l ,s activities were checked on the
+minute, and Server #2 was noted
+on the half-minute. To obtain
+realistic results, the observers
+recorded their data during peak
+operating hours and sat at a table
+with a good view of the servers
+being studied.
+Since observations taken every
+minute can hardly be considered
+random, we drew a random sample
+of observations from each restaurant.
+In this way, we attempted to
+avoid some of the problems associated
+with non-random samples,
+while keeping the observation
+procedure relatively simple.
+Interaction and Outer-Action
+The servers in our study interacted
+with guests about one-third of the
+time, on average. Given that we
+observed the restaurants only
+during busy periods, we infer that
+the proportion of the time spent
+with customers is lower than what
+we observed. If your restaurant’s
+strategy is to increase check
+averages with add-on sales or to
+raise guest-satisfaction levels,
+guest contact that occurs just onethird
+of the time may not be sufficient.
+Needless to say, servers
+cannot spend all of their time talking
+to guests because the servers
+have side work and other duties,
+but if some of that activity could be
+transferred to other employees, the
+server could have more potential
+sales time.
+Also of note is the time spent out
+of the customer’s sight. Servers in
+family restaurants were off the
+floor over 40 percent of the time,
+and that figure was about 33 percent
+in mid-scale restaurants.
+While some of this time out of sight
+is unavoidable, guests may become
+dissatisfied if they cannot contact
+their server when they need something.
+If servers are responsible for
+some food-preparation tasks (e.g.,
+setting up salads or desserts), they
+will generally be off the floor more
+than in restaurants where other
+personnel handle such tasks.
+Customer interaction and floor
+time were the two job categories
+that seemed to separate mid-scale
+restaurants from family restaurants.
+As we expected, servers in
+mid-scale restaurants generally
+spent more of their time (35 percent)
+interacting with customers
+than did servers in family restaurants
+(just under 29 percent).
+Likewise, mid-scale servers were
+on the floor somewhat more of the
+time than family servers (66 percent
+versus 57 percent). The proportion
+of time spent on other
+activities was essentially the same
+in both types of restaurants.
+Day Parts
+Comparing the individual meal
+times at the two restaurants, we
+found similar relationships in the
+proportion of time spent with customers.
+During lunch at the midscale
+restaurants, the server spent
+more than 32 percent of his or her
+time with the customers, while this
+percentage in family restaurants
+fell to just over 25 percent. Moreover,
+the wait staff at mid-scale
+restaurants was visible nearly 75
+percent of the time, but servers at
+family restaurants were on the
+floor just 60 percent of the time.
+This pattern held at dinner.
+Mid-scale servers spent more than
+37 percent of their time with
+customers during dinner, compared
+to just under 31 percent for family
+servers. Family-restaurant wait
+staff was off the floor nearly 45
+percent of the time at dinner,
+compared to barely 39 percent of
+the time for mid-scale servers.
+In both restaurant types, the
+servers spent more time with the
+customers at dinner but also more
+time off the floor.
+Server variations. Since we
+observed two servers in each restaurant,
+we could assess whether
+there was much variation in how
+they spent their time. In general,
+we found that both servers spent a
+similar proportion of their time on
+the various activities. In some
+instances, however, we observed
+that one or the other server would
+spend a great deal more time
+interacting with customers. We’d
+like to have found out whether
+these servers received better tips.
+Developing Your WorkSampling
+Study
+Here are the seven steps for
+creating your own work-sampling
+study: (1) define all activities,
+(2) design the observation form,
+(3) determine the length of the
+study, (4) test the form, (5) determine
+the sample size and observation
+pattern, (6) conduct the
+study, and (7) analyze the data.
+(1) Define all activities. First,
+you must identify the various
+activities you wish to study. Make
+sure the categories cover all the
+possibilities and don’t overlap. Try
+to keep the number of categories
+small to make it easier to observe
+your servers’ behavior.
+(2) Design the observation form.
+After defining the activities you
+wish to study, you need to design
+the form you will use to record your
+observations. Make it easy to use
+and conducive to future analysis.
+You may wish to start with the
+form shown in Exhibit 2.
+(3) Determine the length of the
+study. Decide how long a study you
+wish to conduct. Since one of your
+main objectives is to obtain a
+representative sample, you certainly
+need to study more than one
+day of operation. Spreading your
+observations over the period of one
+MAY 1991 85
+Restaurant________________ Lunch___Dinner
+Date____Time_____
+EXHIBIT 2
+Partial work-sampling form
+By noting what the server is doing once each minute, an observer can obtain a sampling of which tasks occupy the server’s
+time. The 40 observation points indicated on the above form would not constitute a sufficient sample by themselves, but would
+be part of a lengthier study.
+week to one month will probably
+work best.
+(4) Test the form. Before you do
+your final study, it’s a good idea to
+test your form to see whether it
+works the way you want it to. Take
+a few hours to try it out. Are the
+categories well-defined? Is the form
+easy to use? Is it hard to determine
+when to record your observation?
+You should also decide how you are
+going to make your observations.
+The easiest way is probably to
+record observations over a meal
+period that lasts several hours.
+You can make your observations
+either at some pre-determined
+interval or at random. As we mentioned
+above, we used a combination
+of the two approaches. First,
+we took observations at predetermined
+intervals and then we
+drew at random from those observations.
+To draw a random sample,
+you should have access to a device
+that generates random numbers.
+You can get random numbers from
+a table, from some calculators, or
+from most computer spreadsheets.
+If you are not overly concerned
+with how accurate your sample is,
+you can skip this step and still get
+a good idea of what is going on in
+your restaurant.
+Remember that you must record
+exactly what the observed persons
+are doing at the designated observation
+time. Try not to anticipate
+86
+actions or record history. Just note
+what the servers are actually
+doing.
+(5) Determine the sample size
+and observation pattern. Once you
+have finished testing your form,
+you can firm up your plans for how
+many observations you will take
+and how you will ensure that you
+obtain a representative sample.
+Many books discuss ways to calculate
+your sample size.4 As a rule
+of thumb, the larger the sample,
+the more accurate and representative
+it will be. In some cases, 100
+4For example, see: R.M. Barnes, Work
+Sampling (New York: John Wiley & Sons, 1980);
+or Benjamin Niebel, Motion and Time Study
+(Homewood, IL: Richard D. Irwin, 1976).
+THE CORNELL H.R.A. QUARTERLY
+EXHIBIT 3
+Work-sampling comparison— mid-scale versus family restaurants
+50 __
+Guest Wa lk - Wa lk - Bus Prepare Can’t See Check Rest
+Contact Empty Full
+observations will be adequate, but
+you might need close to 1,000 in
+other situations.
+When you’ve determined the
+number of observations needed, set
+up a schedule for your observers. If
+you will take 300 observations over
+10 days, for instance, you will need
+to make at least 30 observations
+each day. If you follow our methodology
+and take a random sample of
+minute-by-minute observations,
+you will obviously need many more
+than 30 observations to create the
+pool from which the random
+sample will be selected.
+Make sure that you spread your
+observations over different meal
+periods and different days. You
+might even decide to conduct
+separate studies for lunch and
+dinner or for weekends and weekdays.
+(6) Conduct the study. If you will
+have other persons record the data,
+train them on how to use the form.
+To minimize the Hawthorne effect,
+you will either need to be discreet
+about your observations or inform
+the employees of the study and
+assure them that the information
+is not part of a personnel evaluation.
+(7) Analyze the data. Your
+analysis involves adding up the
+observations in each category and
+calculating the percentage of time
+that each activity occurred.
+Making Change
+Once you have collected and
+analyzed your data, you can decide
+whether you want to restructure
+your servers’ jobs so that they
+spend more (or less) time with
+customers or more (or less) time on
+the floor. If you decide that your
+servers are spending too much time
+bussing tables, you might want to
+hire more bus help. If you decide
+that the servers aren’t turning the
+tables fast enough, you may want
+to limit customer interaction or
+make other changes.
+We took our results back to two
+of the restaurants we observed,
+and discussed the study with the
+owners: John Parmelee, of Old Port
+Harbour Restaurant, and Michael
+Turback, of Turback’s Restaurant,
+both in Ithaca, New York, and both
+mid-scale restaurants. Neither
+restaurateur had seen this type of
+study before.
+Both were surprised at the
+actual percentage of guest-contact
+time. The study results were
+higher than they expected . The
+overall 35-percent average at dinner
+was far above Turback’s typical
+contact level of 20 percent. While
+we thought 20 percent an extremely
+low level of guest contact,
+it makes sense in view of Turback’s
+strategy, which is as follows:
+The menu includes a complete
+description of each course. Servers
+do not recite specials orally, so
+order taking is streamlined.
+Turback knows each customer will
+order a main-course entrée, so the
+servers are to concentrate on
+selling the extras. Moreover, a
+large percentage of the client base
+at dinner is business-related. Such
+guests are usually looking for
+efficient, unobtrusive service.
+Parmelee thought the study was
+interesting for its capability of
+assessing variations among servers.
+He was particularly interested
+in tracking comparative sales and
+tips generated to see whether those
+figures correlate with the amount
+of guest contact.
+Both operators thought a comparison
+of their operations to their
+competition might give them an
+edge in formulating service strategy.
+They also were anxious to
+investigate the scores for “walk—
+empty” and “walk—full,” to measure
+efficiency of work habits or
+restaurant-design deficiencies.
+Both Turback and Parmelee
+wanted to evaluate the “can’t see”
+category, because the design and
+layout of each facility affects
+whether guests can see servers.
+Turback’s is an elegant farmhouse
+converted into a restaurant, so it
+has several dining rooms. Old Port
+Harbour also comprises a series of
+dining rooms, plus an outdoor
+terrace overlooking an inlet to one
+of New York’s Finger Lakes. (In
+good weather, guests may arrive by
+boat.) However, both restaurateurs
+agreed that staffing and operational
+policies also affected this
+measurement.
+Parmelee, for instance, thought
+he would re-examine his lunch
+service, during which the can’t-see
+MAY 1991 87
+EXHIBIT 4
+Work-sampling analysis by meal period
+that his servers set up their own
+desserts during lunch, a procedure
+that keeps them off the floor for
+some time. To rectify that situation,
+he planned to add another
+person in the kitchen.
+Possibilities
+Although work sampling has been
+used in many industries, it
+apparently has been employed
+little in the hospitality industry.
+We believe that attention to three
+categories from our survey can help
+improve your restaurant’s productivity
+and customer satisfaction—
+namely, guest contact,
+walking empty and full, and out of
+guest’s sight.
+Guest contact. If you want to
+position your restaurant as the
+service leader in your segment, you
+could consciously increase the
+servers’ contact with the guests.
+When Sizzler repositioned its
+family steakhouse restaurants
+several years ago, for instance, part
+of the change involved increased
+customer contact. The chain implemented
+“seven-step service,” which
+called for servers to return to the
+table seven times during the meal.
+Sizzler also increased the number
+changes were made even though
+they would increase labor costs.
+Sizzler’s management believed the
+change was essential if the chain
+was to move out of the low-price
+family category and into the midscale
+market, where it could
+capture more market share. Sales
+results showed that management’s
+strategy was a good one. By the
+fourth quarter of 1987, the chain
+reported a 40-percent increase in
+revenues over the previous year.5
+While the increase in customer
+contact was just one of the changes
+made (menu and decor were also
+altered), that extra service was a
+necessary component for the
+repositioning to be successful.
+Increasing guest contact might
+also allow you to increase prices or
+check averages. One of the chief
+differences we found between
+family restaurants and mid-scale
+operations is in the amount of
+server contact with guests. We
+think that a family restaurant
+could increase guest contact and
+prices at the same time.
+Walking on empty. Comparing
+5Dolores A. Long, “Thomas L. Gregory,
+Sizzler Restaurants,” Restaurant Business,
+November 1987, pp. 88-90.
+help you pinpoint efficient work
+methods. Your servers cannot correct
+problems of which they are not
+aware. Moreover, improving their
+work habits will probably help your
+employees earn larger tips.
+Out of mind. You should
+carefully examine the “cannot see”
+category. Since the customer’s
+satisfaction is at risk when the
+server is out of sight, take a look at
+what servers are doing when they
+are off the floor. In some cases, you
+can pick up additional customercontact
+time by streamlining the
+trips to the back of the house. Some
+operations use buzzers, bells, or
+vibrators to let servers know when
+their orders are ready for pick-up,
+thereby minimizing the time they
+are off the floor.
+The study in this article gives
+you just one example of how work
+sampling can be used. Each
+position in the front of the house
+and the back of the house could be
+analyzed with this technique.
+Knowing what percentage of time
+an employee spends on each
+activity can help you ascertain
+ways of improving productivity
+while maintaining or increasing
+customer satisfaction. □
+88 THE CORNELL H.R.A. QUARTERLY
