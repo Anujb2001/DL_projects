@@ -1,0 +1,788 @@
+Must-Have Insights for
+Restaurant Success
+How deep-dive analytics can increase revenues,
+reduce cost, and deliver a strategic competitive advantage
+An e-book by UNLOCK INSIGHTS
+Table of Contents
+Introduction......................................................................................................................................01
+Chapter 1: Old-school approaches to new-school challenges......................................................02
+Chapter 2: Asserting control with analytics.....................................................................................03
+Chapter 3: Benefits of analytics platforms......................................................................................14
+Conclusion.........................................................................................................................................16
+References.........................................................................................................................................20
+Whether it's a chain of quick serve restaurants (QSRs), fast casual, or a more conventional sit-down establishment,
+today's restaurant business is dramatically different from years past.
+The industry as a whole has grown tremendously, as consumers are spending nearly $2 billion more at bars and
+restaurants each year than they are on groceries. This industry first is driven largely by more diverse food choices,
+an influx of food ordering and reservation technologies, and consumers' growing preferences for dining out with
+family and friends than for cooking and cleaning at home.
+But today’s restaurant leaders--CEOs, CMOs, franchisors, and other executives--face a litany of challenges such as
+an increasing number and types of competitors, evolving consumer preferences, growing and exceedingly
+complex supply chains, and complex internal business operations that make capitalizing on that trend more
+difficult than it seems.
+To gain a sustainable competitive advantage, enterprising restaurant leaders are turning to integrated analytics
+solutions for deep, real-time insights into all aspects of their business. Armed with comprehensive and end-to-end
+information about sales, food costs, and other aspects of business operations, they can achieve greater
+responsiveness, business agility, and strategic decision making.
+This guide will help you better understand which reports and tools to use for creating a 360- degree view of your
+business and how to transform them into high-value customer insights that improve the customer experience,
+boost revenues, and increase profitability.
+US retail spending
+$60 billion
+50
+40
+30
+20
+10 ‘94 ‘96 ‘98 ‘00 ‘02 ‘04 ‘06 ‘08 ‘10 ‘12 ‘14 ‘16
+Grocery stores Eating and drinking establishments
+Food away from home as a share of US household food expenditure
+50%
+40
+30
+20
+10
+0
+1970 1980 1990 2000 2010
+1970: 25.9%
+2012: 43.1%
+Introduction
+Introduction 1
+Consumers in the digital age are more informed and savvier than ever. They have easy, reliable anytime access to
+information like online restaurant reviews, menus, and even table availability that gives them unprecedented
+purchasing power-- while also leaving behind a trail of rich, personal information never previously available.
+Yet, as consumer buying behaviors have continued to evolve, the way restaurants evaluate their successes and
+failures have not. Many businesses still rely on simple historical transaction data from their Point of Sale (PoS)
+systems as the foundation for making decisions instead of leveraging other, more robust information.
+Transaction reports are helpful for identifying high-level trends, but emphasize just one aspect of a restaurant’s
+operations that results in visibility gaps that make it difficult to:
+● Accurately predict sales ● Manage inventory efficiently
+● Reduce food waste and food costs ● Increase employee productivity
+● Improve customer retention ● Identify underperforming locations
+Other systems for managing inventory, loss prevention, and other operations can provide additional sources of
+data. But since these systems are often not integrated, extracting and analyzing the information often requires
+more time and resources than restaurants have available.
+As a result, information remains unused in silos, leaving restaurant executives to wonder why food waste
+continues to average approximately 10% of the total amount of purchased food 3, employee churn rates exceed
+72% 4 , how specific menu items will sell, and how to accurately compare store-to- store performance.
+Restaurant consumer trends in the digital age
+83% of adults use smartphones or tablets
+to look up restaurant locations, directions,
+and hours.
+75% look up menus
+51% order takeout or delivery
+directly from the restaurant
+website
+50% use rewards or
+special deals.
+55% read reviews
+Chapter 1
+Old-school approaches to new-school challenges
+Old-school approaches to new-school challenges 2
+Chapter 12
+Essential Restaurant Ops Insights
+Running a restaurant is hard work. It’s even harder when you’re operating it with incomplete information.
+Restaurant executives seeking more efficient operations, lower costs, and greater profitability can benefit from
+integrated analytics platforms.
+Standalone systems for managing inventory, employee hours and payroll, or other operations typically require
+unique logins and constant toggling among different reports. By contrast, full-service analytics solutions
+seamlessly integrate with PoS, human resources, inventory management, and other systems to deliver as many as
+15 unique reports, on demand.
+Here are the most critical sales operations and customer experience insights you’ll need for 360-degree visibility
+and actionable intelligence from every facet of your operation to make smarter business decisions, faster.
+Sales and Operations
+A real-time look at the revenues and expenses that impact profitability.
+Revenue
+Thousands
+1200
+1000
+800
+600
+400
+200
+0
+632
+682
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+2014 2015 2016
+Revenue
+1.040 1.065
+1.005 933
+826
+869 839 853 917
+769
+675 705
+817 805
+734 721 671
+951
+849 864
+761
+647
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Revenue
+Total revenue from customers during a specified period and its pattern comparing to previous periods. Usually
+aggregated by month, as well by day, week, quarter, year
+Essential Restaurant Ops Insights 3
+1200
+1000
+800
+600
+400
+200
+0
+309
+Cost of goods sold
+411
+514 499
+547
+416
+400 359
+503
+362 325 385
+461
+293
+Thousands
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+2014 2015 2016
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Cost of goods sold
+Total cost for food and complementary packaging of all the menu positions sold over a specified period
+Cost of goods sold
+600
+500
+400
+300
+200
+100
+0
+Thousands
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+2014 2015 2016
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+374
+347 353
+413
+458
+512
+469
+448
+402
+381
+354 355
+420
+453
+439
+537
+451
+387 357
+452
+491518
+469415
+Margin Value
+Margin Value
+Earnings after food and packaging costs
+Essential Restaurant Ops Insights 4
+Margin Ratio
+Earnings comparing with the costs of food and paper
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+2014 2015 2016
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+150%
+100%
+50%
+0%
+127% 126% 12 7% 116% 116% 116% 107% 104% 105%
+Margin Ratio, %
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+2014 2015 2016
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+70
+60
+50
+40
+30
+20
+10
+0
+Thousands
+Wastage Value
+61 66
+50 55 51
+44 42 46 40 37 40 40 38 31 35 39 34 39 35 33 32 2 9 32
+2 8
+Wastage Value
+Total food and complementary packaging costs of all the menu positions that cannot be sold due to expiry
+date or other quality issues.
+Essential Restaurant Ops Insights 5
+Number of orders
+Total number of orders during a specified time frame like day, week, month, quarter, or year
+14000
+12000
+10000
+8000
+6000
+4000
+2000
+0
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+2014 2015 2016
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+# of Orders
+12,667 12,295 11,898 1 0,09 0 11,483 10,792 10,34 4 10,523 10,484 10,050 10,834 10,003
+9 ,311 9,647 8 ,968 8,428 9,057 8,188
+7,865
+Number of customers
+Number of unique customers that made orders. Often measured through a loyalty program using customer ID
+numbers.
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+2014 2015 2016
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+8000
+6000
+4000
+2000
+0
+Number of customer
+6,106 6,334 6,322 5,110 5,423 5,351 5,764 5,682 5,656 5,058 5,780
+Essential Restaurant Ops Insights 6
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+2014 2015 2016
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+8000
+6000
+4000
+2000
+0
+New/Repeat Customers
+2,824 1,993 2,386 2,597 2,828
+488 1 ,113 1,581 161 682 520
+New Repeat
+New/Repeat customers
+Number of newly acquired customers during a specified period
+Average cost of customer acquisition
+How many dollars are spent in advertising, promotions, or other efforts to acquire net new customers in a
+period of time.
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+2014 2015 2016
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+88.0
+86.0
+84.0
+82.0
+80.0
+78.0
+76.0
+Average Cost of Aquisition
+84.1 86.4
+84 .5 8 2.8 82 .5 83.3 83.9 83.5
+81.0 81.7 81.1
+Essential Restaurant Ops Insights 7
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+2014 2015 2016
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+Average Frequency
+1.96 2.00 1.72 1.88 1.77 1.78 1.87 1.65 1.69 1.62 1.81
+Customer lifetime value
+Projected lifetime spend of highly satisfied customers with the highest likelihood of advocating for and
+promoting your brand to friends and family.
+Customer Experience
+Understand what drives your customers to deliver a more enjoyable customer experience for greater loyalty and
+higher sales.
+Average Frequency
+How many times a customer visits your restaurant, on average, over a particular period of time
+Essential Restaurant Ops Insights 8
+Average order value
+How much, on average, each customer spends in one of your restaurants per transaction
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+2014 2015 2016
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+88.0
+86.0
+84.0
+82.0
+80.0
+78.0
+76.0
+Average Order
+84.1 86.4
+84 .5 8 2.8 82 .5 83.3 83.9 83.5
+81.0 81.7 81.1
+Average recency
+Measures how many days have passed since a customer’s last transaction
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+2014 2015 2016
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+100.0
+80.0
+60.0
+40.0
+20.0
+0.0
+Average Recency, days
+48 4 3 48 45 46 49 44 47
+32 33 31
+Essential Restaurant Ops Insights 9
+Net Promoter Score
+Measures the likelihood that a customer would recommend your business to a friend. Critical for
+understanding how customers feel about your brand and what you can do to win them over.
+Likely
+51%
+Maybe
+23%
+Very Likely
+23% Definitely not
+1%
+Not Likely
+2%
+Other Helpful Analytics-as-a-Service KPI Reports
+New Revenue by Location
+Location Revenue
+New York
+San Francisco
+London
+Paris
+Sydney
+Brisbane
+Colombo
+426,328
+282,405
+443,631
+252,690
+439,039
+292,970
+347,903
+Essential Restaurant Ops Insights 10
+Cost Product Sold by Location
+Location Cost Product
+New York
+San Francisco
+London
+Paris
+Sydney
+Brisbane
+Colombo
+213,164
+141,203
+221,815
+126,345
+219,520
+146,485
+173,952
+10%
+8%
+6%
+4%
+2%
+0%
+Sales Staff Turnover
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+2016
+7% 6%
+4%
+5% 4%
+Essential Restaurant Ops Insights 11
+Location Ranking
+0.4 0.3 0.3
+Location Revenue Clients Wastage Location
+Score
+Location
+Rank
+New York
+San Francisco
+London
+Paris
+Sydney
+Total
+404,452
+232,335
+428,802
+577,034
+320,538
+1,963,162
+1,837
+741
+1,889
+2,053
+1,233
+7,753
+7,436
+527
+3,390
+17,930
+5,479
+34,762
+0.21175
+0.12007
+0.22274
+0.30471
+0.16757
+3
+5
+2
+1
+4
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+2014 2015 2016
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+Jan
+Mar
+May
+Jul
+Sep
+Nov
+8000
+6000
+4000
+2000
+0
+New/Repeat Customers
+2,824 1,993 2,386 2,597 2,828
+488 1 ,113 1,581 161 682 520
+New Repeat
+Location Ranking
+Depending on selected criteria, can be developed a complex indicator measuring location “success” – for
+example a combination of traffic level, sales, orders and wastage
+Example of Ranking:
+1 criteria – Revenue – weight 0.4
+2 criteria – Clients – weight 0.3
+3 criteria – Wastage – weight 0.3
+Essential Restaurant Ops Insights 12
+Cost Product Sold by Menu Position
+ProdID Cost Product
+Product 1
+Product 2
+Product 3
+Product 4
+Product 5
+Product 6
+Product 7
+213,164
+141,203
+221,815
+126,345
+219,520
+146,485
+173,952
+Frequently bought together by menu position
+Product 1
+P1 P2 P3 P4 P5 P6
+1000 70 500 10 2
+Number of times Inventory level reached
+Zero by Inventory Units
+IUnitID Times
+Unit 1
+Unit 2
+Unit 3
+Unit 4
+Unit 5
+Unit 6
+1
+2
+3
+0
+0
+1
+Essential Restaurant Ops Insights 13
+In an industry as dynamic and unpredictable as food service, restaurant leaders need to arm themselves with as
+much information as possible.
+Deploying an integrated analytics solution—whether cloud-based or on-premises—gives restaurant leaders
+visibility across their organization and the information they need to maximize efficiency, the customer experience,
+and profitability.
+Advantages of Analytics Platforms
+Real-time access to data from across operations
+Maximize employee productivity, improve customer retention, and optimize loss prevention to boost margins
+Faster, more strategic decision making
+Leverage real-time reporting to proactively address evolving consumer tastes and preferences, uncover and
+capitalize on emerging trends and be first to market, and attack performance issues before they become a real
+problem
+Greater efficiency and cost management
+Improve inventory management and sales forecasting to reduce food waste, eliminate data silos and toggling
+among various systems, and achieve faster time to insight with intuitive, customizable reports
+Restaurant analytics in action
+Over the last several years, high-profile brands such as Wendy’s, Domino’s Pizza, and Darden Restaurants have
+embraced data analytics to better understand the strengths and weakness of their businesses in ways they
+previously couldn’t and transform those insights into business success.
+For example, Wendy’s has taken advantage of location intelligence solutions to improve ad targeting and new
+location selections. The company’s marketing and advertising team uses the tool to improve ad targeting, develop
+new menu items, and assess the success of their efforts. At the same time, the company’s real estate department
+can analyze massive amounts of information to determine the best possible location for each new restaurant. In
+just two years, the company estimates that it’s saved more than $750,000 in wasted expenses from poor location
+selection alone 6 .
+Chapter 13
+Intelligence is Power
+Intelligence is Power 14
+Darden Restaurants and Domino’s Pizza have had similar successes in leveraging historical and predictive
+analytics to benefit their businesses. Darden, for example, uses real-time sales figures in each location to power
+The Kitchen Display System, which tells cooks what to prepare and when to deliver each item for maximum
+efficiency and to enhance the customer experience7. Meanwhile, Domino’s AnyWare system captures data
+through channels like text message, Twitter, and Amazon Echo, which is with geocode, demographic, and
+competitor data to allow in depth customer segmentation for targeted promotions and messaging8 .
+How popular restaurant chains use data analytics
+Wendy’s: location intelligence to select new store locations, create geo-specific menu
+items, and promotions. Saved approximately $750,000 in expenses over two years.
+Darden Restaurants: uses PoS transactional data to power The Kitchen Display
+System, which tells cooks what to prepare and when to deliver it for greater efficiency,
+less waste, and improved customer experience
+Domino’s Pizza: combines in-store and third-party data from every channel to
+efficiently segment customer groups for targeted promotions and advertising.
+Intelligence is Power 15
+The Master Key
+to Success
+The Master Key to Success
+Integrated analytics from Unlock Insights is helping to transform the way restaurant executives manage their
+businesses, delivering end-to-end analytics solutions that enable leaders in QSRs, fast casual, and full-service
+restaurants to expand customer intelligence and improve operational efficiencies.
+Customer Analytics help analyze customer behavior over time under different
+circumstances, track how customers move across different segments over time, and predict
+the future customer behavior using predictive customer behavior modeling techniques.
+Menu Analytics help strike the right balance between profitability and customer experience
+by identifying complementary menu pairings, maximizing discounts for winning
+combinations, and zeroing in on price points that deliver the greatest returns.
+Operations and Staff Analytics optimize staff deployment based on forecasted sales,
+minimize food waste and make better-coordinated purchase decisions for inventory
+management, and collect customer intelligence to enhance the in-store experience.
+The all-in-one intelligence solution offers restaurant executives a snapshot of their select key performance
+indicators (KPIs) to gauge overall operational effectiveness, along with a vast pool of customer data to tailor
+services and marketing initiatives to highly profitable customer segments, and comprehensive menu analytics
+and operations and staff reporting to maximize every aspect of the business.
+The restaurant industry is complex and changing rapidly. To remain competitive (and profitable), business leaders
+need to be keenly aware of how each aspect of their business is performing. Investing in an integrated operations
+analytics solution is an essential step in future-proofing your business and creating a strategic competitive
+advantage.
+The Master Key to Success 16
+References
+17
+qz.com/706550/no-one-cooks-anymore/?utm_source=nextdraft&utm_medium=email
+www.restaurant.org/Downloads/PDFs/News-Research/Pocket_Factbook_FEB_2017-FINAL.pdf
+Behmen - Milicevic, Aida.“16 Tips for Restaurant Food Waste Reduction.” POSsector.com
+“Hospitality employee turnover rate edged higher in 2016.” National Restaurant Association. March 16, 2017.
+www.restaurant.org/News-Research/Research/Mapping-the-Technology-Landscape
+‘Burns, Ed. “Location-based analytics helps Wendys nd its way to new sites.”TechTargetSearchBusiness Analytics.
+Carr, David. “Darden Uses Analytics to Understand Restaurant Customers.” Information Week. April 2, 2014.
+'Marr, Bernard. “Big Data-Driven Decision-Making at Dominos Pizza.” Forbes.com. April 6, 2016.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+References
+Unlock Insights is innovator in delivering end-to-end Analytics for businesses looking to
+improve performance across sales, marketing, and customer experience Unlock Insights is
+subsidiary of ComTec Information Systems, a 20-year-old global IT Solutions Company.
+ABOUT UNLOCK INSIGHTS
+Copyright © 2017, Unlockinsights. All rights reserved.
+For more information about how Unlock Insights can make your
+restaurant business more efficient and profitable, visit
+www.unlockinsights.com to schedule a free consultation.
+www.unlockinsights.com
+email: sales@unlockinsights.com Ph. 817-857-8000
